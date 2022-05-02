@@ -13,7 +13,7 @@ public class Day1 {
 	JavascriptExecutor jse;
 	public void invokebrowser()
 	{
-		System.setProperty("webdriver.chrome.driver","C:\\Users\\gurkh\\Downloads\\1sel jar\\chromedriver.exe.exe");
+		System.setProperty("webdriver.chrome.driver","C:\\s\\1sel jar\\chromedriver.exe.exe");
 		driver = new ChromeDriver();
 		
 		
